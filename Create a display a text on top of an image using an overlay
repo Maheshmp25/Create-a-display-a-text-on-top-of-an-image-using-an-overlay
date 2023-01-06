@@ -1,0 +1,51 @@
+body {
+      background-image: url("https://i.stack.imgur.com/B9jjg.png");
+      background-repeat: repeat-y;
+      background-color: #fff;
+      background-size: 100%;
+      font-family: sans-serif;
+    }
+
+    .container {
+      width: 80%;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 42px;
+      color: #00ae82;
+    }
+
+    p {
+      font-size: 21px;
+      color: black;
+      line-height: 32px;
+    }
+
+<!DOCTYPE html>
+<html>
+
+
+<head>
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" />
+
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>
+    Lorem ipsum
+  </h1>
+  
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit, ligula ac tempor lacinia, sem ligula rutrum lacus, nec maximus sem augue eu neque. Integer aliquet ligula nunc, vel pellentesque elit condimentum vel. Sed fermentum dolor ex, vitae porta mi venenatis ac. Praesent imperdiet rhoncus fermentum. Vivamus ac dui euismod, convallis erat sed, cursus diam. Fusce vitae justo ornare, placerat elit quis, ornare tellus. Vivamus iaculis lorem in efficitur imperdiet. Proin quis dolor tincidunt, maximus ante vel, ullamcorper leo. Sed urna turpis, dictum vitae accumsan non, suscipit sed lorem. Ut molestie ac lectus id ornare. Nunc id est libero. Vivamus euismod erat vel pharetra pharetra. Donec pulvinar eleifend lorem scelerisque commodo. Nam nibh augue, vulputate vitae dolor et, dapibus mollis dolor.
+  </p>
+
+</div>
+  
+</body>
+
+</html>
